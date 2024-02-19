@@ -1,0 +1,6 @@
+import cn.hutool.json.JSONArray;
+public class FunctionUse6505 {
+public void funcUse() {
+JSONArray jsonarray = new JSONArray();
+}
+}
